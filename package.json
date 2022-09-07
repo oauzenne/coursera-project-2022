@@ -1,0 +1,24 @@
+{
+  "name": "coursera-project-22",
+  "version": "1.0.0",
+  "description": "This is a project for coursera certification",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oauzenne/coursera-project-22.git"
+  },
+  "author": "Olivia Auzenne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oauzenne/coursera-project-22/issues"
+  },
+  "homepage": "https://github.com/oauzenne/coursera-project-22#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
